@@ -3,3 +3,7 @@ li{
     padding: 0px 5px 10x 5px;
     float: right;
 }
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
