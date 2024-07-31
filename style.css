@@ -1,14 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 li{
     display: inline;
-<<<<<<< HEAD
     padding: 0px 5px 10x 5px;
     float: center;
-=======
-    padding: 0px 5px 10px 5px;
-    float: right;
->>>>>>> aa04c0c70f1efb3c6d8aa1d39e8ffcc6a71cf374
 }
+
 a{
     font-family: "Josefin Sans", sans-serif;
     text-decoration: none;
