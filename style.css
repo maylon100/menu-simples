@@ -25,4 +25,7 @@ a{
 #nome-usuário{
     font-weight: bold;    
 }
-.body{}
+.body{
+    background-color: black;
+    color: #FFF;
+}
