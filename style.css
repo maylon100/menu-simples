@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
-H1{
+.H1{
 text-align: center;
 font-family: "Josefin Sans", sans-serif;
 padding: 25PX;
 font-size: 50px;
 }
 
-li{
+.li{
     display: inline;
     padding: 0em 5em 10em 5em;
     float: right;
@@ -16,7 +16,7 @@ li{
 a{
     text-decoration: none;
 }
-a:{
+.a:{
     background-color:#A9A9A9;
     color: #FFF;
     font-size: 20PX;
@@ -25,3 +25,4 @@ a:{
 #nome-usuário{
     font-weight: bold;    
 }
+.body{}
